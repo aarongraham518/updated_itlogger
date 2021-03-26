@@ -1,0 +1,47 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "changed network card 007",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2021-03-16T19:35:54.146Z"
+    },
+    {
+      "message": "harddrive failed",
+      "attention": true,
+      "tech": "Sara Wilson",
+      "date": "2021-03-15T18:48:57.676Z",
+      "id": 2
+    },
+    {
+      "message": "1122 wireless down",
+      "attention": true,
+      "tech": "Sara Wilson",
+      "date": "2021-03-15T18:49:17.493Z",
+      "id": 3
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "firstName": "Benny",
+      "lastName": "Simmons",
+      "id": 4
+    }
+  ]
+}
